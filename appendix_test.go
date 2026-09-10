@@ -18,8 +18,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdhender/earl"
-	"github.com/mdhender/earl/auth"
+	"github.com/maloquacious/earl"
+	"github.com/maloquacious/earl/auth"
 )
 
 func run(t *testing.T, cfg earl.Config, args ...string) (string, string, error) {

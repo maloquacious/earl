@@ -3,7 +3,7 @@
 **Status:** accepted
 **Version:** 1.0
 **Accepted:** 2026-09-10
-**Module:** `github.com/mdhender/earl`
+**Module:** `github.com/maloquacious/earl`
 **Go:** 1.26
 
 ---
@@ -58,8 +58,8 @@ command tree, transport, output, argument handling, and credential store. The
 application supplies its defaults and one `Auth` implementation.
 
 ```
-github.com/mdhender/earl            command tree, transport, store, Auth contract
-github.com/mdhender/earl/auth       Bearer, Cookie
+github.com/maloquacious/earl            command tree, transport, store, Auth contract
+github.com/maloquacious/earl/auth       Bearer, Cookie
 <app>/cmd/earl                      ~40 lines: Config literal, earl.Main
 ```
 

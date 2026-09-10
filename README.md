@@ -33,8 +33,8 @@ application supplies its defaults and one `Auth`:
 package main
 
 import (
-	"github.com/mdhender/earl"
-	"github.com/mdhender/earl/auth"
+	"github.com/maloquacious/earl"
+	"github.com/maloquacious/earl/auth"
 )
 
 func main() {

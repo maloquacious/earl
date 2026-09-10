@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mdhender/earl"
+	"github.com/maloquacious/earl"
 )
 
 // Bearer describes an API that authenticates with a token in a header.

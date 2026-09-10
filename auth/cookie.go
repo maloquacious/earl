@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/mdhender/earl"
+	"github.com/maloquacious/earl"
 )
 
 // Cookie describes an API that authenticates with a session cookie.

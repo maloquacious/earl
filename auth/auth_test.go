@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdhender/earl"
-	"github.com/mdhender/earl/auth"
+	"github.com/maloquacious/earl"
+	"github.com/maloquacious/earl/auth"
 )
 
 // stub is a Transport that answers from a script, recording what it was asked.
